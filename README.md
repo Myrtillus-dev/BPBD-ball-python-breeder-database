@@ -2,7 +2,7 @@
 
 **From Breeder to Breeders** — Free, open source management software for ball python breeders.
 
-Developed by Myrtillus Reptiles
+Developed by Myrtillus Reptiles with assistance from AI tools.
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
