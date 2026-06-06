@@ -23,6 +23,30 @@ Developed by Myrtillus Reptiles with assistance from AI tools.
 
 No Python needed — the installer includes everything.
 
+## Screenshots
+
+### Dashboard
+![Dashboard](Screenshots/Dashboard.png)
+
+### Animal Profiles
+![Animals](Screenshots/Animals.png)
+
+### Health Tracking
+![Health](Screenshots/Health.png)
+
+### Feeding / Husbandry
+![Husbandry](Screenshots/Husbandry.png)
+
+### Clutches
+![Clutches](Screenshots/Clutches.png)
+
+### Hatchlings
+![Hatchlings](Screenshots/Hatchlings.png)
+
+### Pedigree Viewer
+![Pedigree](Screenshots/Pedigree.png)
+
+
 ## Requirements
 - Windows 10 or newer
 
