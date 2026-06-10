@@ -7,7 +7,7 @@
 
 ; ── Sovelluksen perustiedot ──────────────────────────────────
 !define APP_NAME        "Ball Python Breeder Database"
-!define APP_VERSION     "2.1.0"
+!define APP_VERSION     "3.0.0"
 !define APP_PUBLISHER   "Myrtillus Reptiles"
 !define APP_DESCRIPTION "Ball python breeding management software — From Breeder to Breeders"
 !define APP_EXE         "BallPythonDB.exe"
